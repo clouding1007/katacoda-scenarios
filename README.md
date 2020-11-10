@@ -8,3 +8,4 @@ Visit https://www.katacoda.com/clouding1007 to view the profile and interactive 
 Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
 
 For examples, visit https://github.com/katacoda/scenario-example
+For examples, visit https://github.com/katacoda/scenario-example
